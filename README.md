@@ -2,7 +2,7 @@
 
 # Student-Data
 
-Contract address: 0x24dC4C3e468dF765a0913db6Be4f3FEe246054f8
+**Contract address: 0x24dC4C3e468dF765a0913db6Be4f3FEe246054f8**
 
 ![image](https://github.com/user-attachments/assets/bf27c3d8-5ed3-4edd-a9cf-d52d87ce4c60)
 
