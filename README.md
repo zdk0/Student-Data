@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/ceaa912a-0c91-4ad8-92a2-c9a6bccd2ed5)
 
 # Student-Data
-Contact address: 0x24dC4C3e468dF765a0913db6Be4f3FEe246054f8
+
+Contract address: 0x24dC4C3e468dF765a0913db6Be4f3FEe246054f8
 
 ![image](https://github.com/user-attachments/assets/bf27c3d8-5ed3-4edd-a9cf-d52d87ce4c60)
 
@@ -20,3 +21,9 @@ The **Student Data Ownership** project leverages blockchain technology to empowe
 
 The vision of the **Student Data Ownership** project is to revolutionize how students interact with their educational data. By utilizing blockchain technology, we aim to provide a decentralized, secure, and user-centric approach to data management. This project seeks to address the growing need for data sovereignty and privacy, aligning with the latest trends in blockchain and digital identity management. Our goal is to create a robust system that not only enhances data security but also empowers students with unprecedented control over their academic records.
 
+## Contact
+
+For inquiries, feedback, or collaboration, please contact:
+
+- *Email*:kalitadarshita29@gmail.com
+- *GitHub*:https://github.com/zdk0
